@@ -1,0 +1,82 @@
+{
+    "orderNumber": "DEV0028644863",
+    "shippingMethod": "Postnord_2",
+    "currency": "SEK",
+    "country": "SWE",
+    "orderDate": "2026-09-18T10:18:33.857Z",
+    "device": "Browser",
+    "lineItems": [
+        {
+            "code": "1100-011203-0047-580",
+            "displayName": "Satin Tie Back Volume Dress",
+            "quantity": 1.000000000,
+            "originalPricePerItem": 949.000000000,
+            "pricePerItem": 949.000000000,
+            "totalPriceBeforeDiscount": 949.000000000000000000,
+            "totalPriceAfterDiscount": 949.000000000000000000
+        },
+        {
+            "code": "1100-011336-0002-640",
+            "displayName": "Flat Flip-Flop Sandals",
+            "quantity": 1.000000000,
+            "originalPricePerItem": 499.000000000,
+            "pricePerItem": 499.000000000,
+            "totalPriceBeforeDiscount": 499.000000000000000000,
+            "totalPriceAfterDiscount": 499.000000000000000000
+        },
+        {
+            "code": "1100-011336-0002-642",
+            "displayName": "Flat Flip-Flop Sandals",
+            "quantity": 0.000000000,
+            "originalPricePerItem": 499.000000000,
+            "pricePerItem": 499.000000000,
+            "totalPriceBeforeDiscount": 0,
+            "totalPriceAfterDiscount": 0.000000000
+        }
+    ],
+    "discounts": [],
+    "payments": [
+        {
+            "paymentMethodName": "Klarnav3",
+            "amount": 1966.000000000,
+            "status": "Processed",
+            "transactionType": "Authorization"
+        }
+    ],
+    "shipments": [
+        {
+            "shippingMethodName": "Postnord_2",
+            "shippedDate": "2026-09-18T10:20:18.27Z",
+            "trackingNumber": "3223r23r",
+            "status": "Shipped",
+            "lineItems": [
+                {
+                    "code": "1100-011203-0047-580",
+                    "displayName": "Satin Tie Back Volume Dress",
+                    "quantity": 1.000000000
+                },
+                {
+                    "code": "1100-011336-0002-640",
+                    "displayName": "Flat Flip-Flop Sandals",
+                    "quantity": 1.000000000
+                }
+            ]
+        }
+    ],
+    "returns": [
+        {
+            "returnType": "Imported",
+            "returnFee": 59.00,
+            "created": "2026-09-18T10:42:27.953Z",
+            "lineItems": [
+                {
+                    "code": "1100-011336-0002-640",
+                    "displayName": "Flat Flip-Flop Sandals",
+                    "returnQuantity": 1.000000000,
+                    "placedPrice": 499.000000000,
+                    "returnReasonCode": "0"
+                }
+            ]
+        }
+    ]
+}
