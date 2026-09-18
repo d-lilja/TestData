@@ -1,0 +1,76 @@
+{
+    "orderNumber": "DEV0028644862",
+    "orderStatus": "InProgress",
+    "shippingMethod": "Ingrid",
+    "currency": "EUR",
+    "country": "ESP",
+    "orderDate": "2026-09-04T11:57:34.85Z",
+    "device": "Browser",
+    "lineItems": [
+        {
+            "code": "1812-000773-0005-002",
+            "displayName": "Crochet Knitted Midi Skirt",
+            "quantity": 2.000000000,
+            "originalPricePerItem": 49.950000000,
+            "pricePerItem": 14.980000000,
+            "totalPriceBeforeDiscount": 99.900000000000000000,
+            "totalPriceAfterDiscount": 29.960000000000000000
+        },
+        {
+            "code": "1100-011074-0017-929",
+            "displayName": "Tape Yarn Maxi Skirt",
+            "quantity": 1.000000000,
+            "originalPricePerItem": 49.950000000,
+            "pricePerItem": 14.980000000,
+            "totalPriceBeforeDiscount": 49.950000000000000000,
+            "totalPriceAfterDiscount": 14.980000000000000000
+        },
+        {
+            "code": "1100-011203-0259-580",
+            "displayName": "Satin Tie Back Volume Dress",
+            "quantity": 2.000000000,
+            "originalPricePerItem": 75.950000000,
+            "pricePerItem": 75.950000000,
+            "totalPriceBeforeDiscount": 151.900000000000000000,
+            "totalPriceAfterDiscount": 151.900000000000000000
+        },
+        {
+            "code": "1100-011203-0047-579",
+            "displayName": "Satin Tie Back Volume Dress",
+            "quantity": 1.000000000,
+            "originalPricePerItem": 75.950000000,
+            "pricePerItem": 75.950000000,
+            "totalPriceBeforeDiscount": 75.950000000000000000,
+            "totalPriceAfterDiscount": 75.950000000000000000
+        }
+    ],
+    "discounts": [
+        {
+            "name": "70%",
+            "couponCode": "",
+            "savedAmount": 104.895,
+            "affectedItems": [
+                "1812-000773-0005-002",
+                "1100-011074-0017-929"
+            ]
+        }
+    ],
+    "payments": [
+        {
+            "paymentMethodName": "Klarnav3",
+            "amount": 272.790000000,
+            "status": "Processed",
+            "transactionType": "Authorization"
+        }
+    ],
+    "shipments": [
+        {
+            "shippingMethodName": "Ingrid",
+            "shippedDate": null,
+            "trackingNumber": "",
+            "status": "AwaitingInventory",
+            "lineItems": []
+        }
+    ],
+    "returns": []
+}
